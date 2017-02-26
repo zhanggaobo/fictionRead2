@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="@color/loginbutton">
+    <TextView
+            android:id="@+id/section_text"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="查看目录"
+            android:textColor="@color/dark_black"
+            android:textSize="20dp"
+            android:paddingLeft="10dp"
+            android:paddingBottom="5dp"
+            android:paddingTop="5dp"
+            />
+    <ListView
+            android:id="@+id/section_list"
+            android:layout_below="@id/section_text"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:fastScrollEnabled="true"
+            android:smoothScrollbar="true"
+            android:cacheColorHint="@android:color/transparent"
+            android:dividerHeight="1px"
+            android:divider="@drawable/divider_bright"
+            android:fadingEdge="none"
+            />
+
+</RelativeLayout>

@@ -1,0 +1,83 @@
+<resources>
+    <color name="touming">#00000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="dark_transparent">#50000000</color>
+    <color name="white">#ffffffff</color>
+    <color name="black">#ff000000</color>
+    <color name="red">#ffff0000</color>
+    <color name="green">#ff7cfc00</color>
+    <color name="blue">#ff0000ff</color>
+    <color name="yellow">#ffffff00</color>
+    <color name="orange">#ffffff33</color>
+    <color name="deep_orange">#ffff7f00</color>
+    <color name="gray">#ff666666</color>
+    <color name="new_blue">#ff336699</color>
+    <color name="purple">#ff9900cc</color>
+    <color name="mmcharge_orange">#ffff7f00</color>
+    <color name="loginbutton">#ffc1c6ce</color>
+    <color name="listitem_bg">#ffeeeeee</color>
+    <color name="AppBackgroundColor">#ffc0e7fa</color>
+    <color name="TextColorBlack">#ff000000</color>
+    <color name="TextColorWhite">#ffffffff</color>
+    <color name="TextColorBlue">#ff0066cc</color>
+    <color name="TextColorGray">#ff505050</color>
+    <color name="TextColorRed">#ffe26926</color>
+    <color name="BgColor">#ffd1dce9</color>
+    <color name="PopBg">#ff3a3e43</color>
+    <color name="oranger">#ffff6701</color>
+    <color name="forget_pwd_selected">#ffc4c4c4</color>
+    <color name="forget_pwd_unselected">#ffffffff</color>
+    <color name="darkgrey">#ff404040</color>
+    <color name="toasterro">#ff9fd524</color>
+    <color name="lightgrey">#ff888888</color>
+    <color name="semitransparent">#80000000</color>
+    <color name="lightransparent">#a0000000</color>
+    <color name="navpage">#ffe1e8eb</color>
+    <color name="rc_black">#ff000000</color>
+    <color name="rc_white">#ffffffff</color>
+    <color name="rc_red">#ffff0000</color>
+    <color name="rc_detailblackground">#ffedfbfe</color>
+    <color name="rc_detailtitle">#ff353535</color>
+    <color name="rc_detailcontent">#ff545454</color>
+    <color name="rc_gray">#ff999999</color>
+    <color name="rc_itemblackground1">#ffffffff</color>
+    <color name="rc_itemblackground2">#fff3f3f3</color>
+    <color name="rc_littlegray">#fff0f0f0</color>
+    <color name="dark_yellow">#fffbe284</color>
+    <color name="black1">#333333</color>
+    <color name="black2">#b0333333</color>
+    <!--<color name="dark_yellow">#fffbe284</color>-->
+
+    <color name="pim_bg">#FFFFFF</color>
+    <color name="dark_black">#ff666666</color>
+    <color name="dark_black2">#DD000000</color>
+    <color name="middle_gray">#ff737370</color>
+    <color name="light_gray">#9D9D9D</color>
+    <color name="shark_gray">#ffcccccc</color>
+    <color name="smart_gray">#fff6f4f4</color>
+    <color name="favorite_gray">#E5E3DF</color>
+    <color name="message_gray">#ced3d6</color>
+    <color name="column_gray">#ffe9e7e3</color>
+    <color name="sync_gray">#ffF3F3F3</color>
+    <color name="dark_medium_gray">#ffDFDFDF</color>
+
+    <color name="list_primary_color">#1D1D1D</color>
+    <color name="list_secondary_color">#9C9C9C</color>
+    <color name="list_total_num_color">#ff3366ff</color>
+    <color name="list_time_view_color">#ff3366ff</color>
+    <color name="round_corner_border">#CFCFCF</color>
+    <color name="dropdown_color">#5B5B5B</color>
+    <color name="message_dropdown_color">#333333</color>
+    <color name="special_blue">#0f87ff</color>
+
+    <color name="light_blue">#ff3366ff</color>
+    <color name="dark_blue">#ff66ACD9</color>
+    <color name="dark_blue2">#ff66ACff</color>
+    <color name="contact_indexer_bg">#ffe6f7f7</color>
+    <color name="window_bg_color">#50000000</color>
+
+    <drawable name="window_shadow">#e0737370</drawable>
+
+    <color name="transparente">#a0000000</color>
+
+</resources>

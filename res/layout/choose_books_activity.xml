@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:background="@color/loginbutton">
+    <com.zhanggb.fictionread.view.HeadView
+            android:id="@+id/head_view"
+            android:layout_width="fill_parent"
+            android:layout_height="50dp"
+            android:layout_alignParentTop="true"
+            />
+    <TextView
+            android:id="@+id/choose_books_directory"
+            android:layout_below="@id/head_view"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:paddingLeft="10dp"
+            android:text="路径:/sdcard"
+            android:textSize="16dp"
+            android:textColor="@color/rc_gray"
+            android:background="@color/forget_pwd_selected"
+            />
+    <ListView
+            android:id="@+id/choose_item_list"
+            android:layout_below="@id/choose_books_directory"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_marginTop="10dp"
+            android:fastScrollEnabled="true"
+            android:smoothScrollbar="true"
+            android:cacheColorHint="@android:color/transparent"
+            android:dividerHeight="1px"
+            android:divider="@drawable/divider_bright"
+            android:fadingEdge="none"
+            />
+</RelativeLayout>
